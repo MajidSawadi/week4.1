@@ -14,11 +14,11 @@ function Naavbar(){
 
   </div>
     <ul className="menu">
-      <li><a href="#">Premum</a></li>
-      <li><a href="#">Premum</a></li>
+      <li><a href="https://github.com/MajidSawadi/week4.1">Premum</a></li>
+      <li><a href="https://github.com/MajidSawadi/week4.1">Premum</a></li>
       <span>|</span>
-      <li><a href="#">Login </a></li>
-      <li><a href="#">sign up</a></li>
+      <li><a href="https://github.com/MajidSawadi/week4.1">Login </a></li>
+      <li><a href="https://github.com/MajidSawadi/week4.1">sign up</a></li>
 
     </ul>
 </dv>
@@ -48,7 +48,8 @@ function Footerw(){
 
     <footer>
     <div class="container">
-      <div class="column footer-logo">
+      <div class="column
+       footer-logo">
         <i class="fab fa-spotify"></i>
         <h1>Spotify</h1>
       </div>
